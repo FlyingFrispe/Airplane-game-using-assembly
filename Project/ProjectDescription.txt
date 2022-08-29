@@ -1,0 +1,6 @@
+1-Jet fighter :
+Two airplanes move in 2d space trying to shoot each other with bombs and other various weapons and ablilties
+
+
+2-Tower defense:
+Two players build and upgrade towers around the map in order to defend their path against creeps(bots) that move in a defined path. Each player can spawn bosses at the other players path. if a creep or a boss reaches the end of the path the player will lose health. the last one to survive wins the game.
